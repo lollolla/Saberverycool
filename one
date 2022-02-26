@@ -1,0 +1,13 @@
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<script src="script.js"></script>
+</head>
+<body>
+ <p>Have you done remembering?</p>
+ <button onclick="answereButton()">yes</button>
+			<p id="answere"> gud, here <img src="https://product.hstatic.net/1000160337/product/figure-031665_01.jpg">
+    <  </p>
+<button onclick="answereButton()">no</button>
+			<p id="answere"> go remember it  </p>
+ </body>
